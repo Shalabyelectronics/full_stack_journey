@@ -29,7 +29,7 @@ So I'm going to add this course also in Roadmap.
 |  7   | [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) |       Udemy       |     16h 7m     |
 |  8   | [React - The Complete Guide (incl Hooks, React Router, Redux](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) |       Udemy       |    49h 25m     |
 |  9   | [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno](https://www.udemy.com/course/nodejs-the-complete-guide/) |       Udemy       |    40h 31m     |
-|  10  | [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](https://www.udemy.com/course/nodejs-the-complete-guide/) |       Udemy       |    20h 32m     |
+|  10  | [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/) |       Udemy       |    20h 32m     |
 |  11  | [AWS Certified Cloud Practitioner (CLF-C01)](https://acloud.guru/overview/aws--certified-cloud-practitioner) |    Cloud Guru     |    16h 12m     |
 |  12  | [Serverless Functions with Netlify](https://www.youtube.com/watch?v=AfAZ33XjIBU&feature=youtu.be&ab_channel=CodingAddict) |      Youtube      |     4h 27m     |
 
